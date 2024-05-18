@@ -10,6 +10,7 @@ Simply use the following command to run the python script
 <br />
 ```python3 main.py```
 <br />
+<br />
 Your output results will be saved in data.csv
 
 ## Arduino
