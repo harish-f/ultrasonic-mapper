@@ -3,10 +3,13 @@
 ## Python
 ### Dependencies
 Install the pyserial package using pip3 to manage serial connections
+<br />
 ```pip install pyserial```
 ### Running the app
 Simply use the following command to run the python script
+<br />
 ```python3 main.py```
+<br />
 Your output results will be saved in data.csv
 
 ## Arduino
